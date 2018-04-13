@@ -131,6 +131,9 @@ use the following commands to set up for Angular:
 14. Navigate to **https://[username].github.io/[reponame]/** to see it on GitHub 
    (be sure to use our Github username and repo name).    
    
+## Fin
+Hopefully, this exercise can help at least a few Angular devs understand how the **angular-cli-ghpages** package is used!
+   
 
     
     
