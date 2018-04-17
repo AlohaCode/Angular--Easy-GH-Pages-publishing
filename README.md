@@ -1,4 +1,4 @@
-# NgCalc
+# Easily publish Angular apps to Github Pages with the angular-cli-ghpages package
 This is a simple Angular project that demonstrates use of the npm angular-cli-ghpages package to quickly and easily publish an Angular project to Github Pages.
 The app itself is a simple calculator.  The point of this repo is to demonstrate how to use npm's angular-cli-ghpages package to publish the project.  
 
